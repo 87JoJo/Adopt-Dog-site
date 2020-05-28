@@ -7,7 +7,7 @@
         "weightDeatil": "9.6kg至22kg",
         "name": "木頭",
         "sex": "男生",
-        "img": "./../img/dog1.jpeg"
+        "img": "./img/dog1.jpeg"
     },
     {
         "type": "狗",
@@ -18,7 +18,7 @@
         "weightDeatil": "9.6kg至22kg",
         "name": "花生",
         "sex": "男生",
-        "img": "./../img/dog2.jpeg"
+        "img": "./img/dog2.jpeg"
     },
     {
         "type": "狗",
@@ -29,7 +29,7 @@
         "weightDeatil": "9.6kg至22kg",
         "name": "大白",
         "sex": "男生",
-        "img": "./../img/dog3.jpeg"
+        "img": "./img/dog3.jpeg"
     },
     {
         "type": "狗",
@@ -40,7 +40,7 @@
         "weightDeatil": "小於9.5kg",
         "name": "小白",
         "sex": "男生",
-        "img": "./../img/dog4.jpeg"
+        "img": "./img/dog4.jpeg"
     },
     {
         "type": "狗",
@@ -51,7 +51,7 @@
         "weightDeatil": "小於9.5kg",
         "name": "阿白",
         "sex": "男生",
-        "img": "./../img/dog5.jpeg"
+        "img": "./img/dog5.jpeg"
     },
     {
         "type": "狗",
@@ -62,7 +62,7 @@
         "weightDeatil": "小於9.5kg",
         "name": "阿龍",
         "sex": "男生",
-        "img": "./../img/dog6.jpeg"
+        "img": "./img/dog6.jpeg"
     },
     {
         "type": "狗",
@@ -73,7 +73,7 @@
         "weightDeatil": "22kg以上",
         "name": "白龍",
         "sex": "男生",
-        "img": "./../img/dog7.jpeg"
+        "img": "./img/dog7.jpeg"
     },
     {
         "type": "狗",
@@ -84,7 +84,7 @@
         "weightDeatil": "22kg以上",
         "name": "黑龍",
         "sex": "男生",
-        "img": "./../img/dog8.jpeg"
+        "img": "./img/dog8.jpeg"
     },
     {
         "type": "狗",
@@ -95,7 +95,7 @@
         "weightDeatil": "22kg以上",
         "name": "小黃",
         "sex": "男生",
-        "img": "./../img/dog9.jpeg"
+        "img": "./img/dog9.jpeg"
     },
     {
         "type": "狗",
@@ -106,7 +106,7 @@
         "weightDeatil": "22kg以上",
         "name": "阿黃",
         "sex": "女生",
-        "img": "./../img/dog10.jpeg"
+        "img": "./img/dog10.jpeg"
     },
     {
         "type": "狗",
@@ -117,7 +117,7 @@
         "weightDeatil": "小於9.5kg",
         "name": "黃毛",
         "sex": "女生",
-        "img": "./../img/dog11.jpeg"
+        "img": "./img/dog11.jpeg"
     },
     {
         "type": "狗",
@@ -128,7 +128,7 @@
         "weightDeatil": "小於9.5kg",
         "name": "冰冰",
         "sex": "女生",
-        "img": "./../img/dog12.jpeg"
+        "img": "./img/dog12.jpeg"
     },
     {
         "type": "狗",
@@ -139,7 +139,7 @@
         "weightDeatil": "小於9.5kg",
         "name": "bogi",
         "sex": "女生",
-        "img": "./../img/dog13.jpeg"
+        "img": "./img/dog13.jpeg"
     },
     {
         "type": "貓",
@@ -150,7 +150,7 @@
         "weightDeatil": "小於9.5kg",
         "name": "巧克力",
         "sex": "女生",
-        "img": "./../img/cat1.jpeg"
+        "img": "./img/cat1.jpeg"
     },
     {
         "type": "貓",
@@ -161,7 +161,7 @@
         "weightDeatil": "小於9.5kg",
         "name": "蘋果",
         "sex": "女生",
-        "img": "./../img/cat2.jpeg"
+        "img": "./img/cat2.jpeg"
     },
     {
         "type": "貓",
@@ -172,7 +172,7 @@
         "weightDeatil": "9.6kg至22kg",
         "name": "摩摩",
         "sex": "女生",
-        "img": "./../img/cat3.jpeg"
+        "img": "./img/cat3.jpeg"
     },
     {
         "type": "貓",
@@ -183,7 +183,7 @@
         "weightDeatil": "9.6kg至22kg",
         "name": "嚕嚕",
         "sex": "男生",
-        "img": "./../img/cat4.jpeg"
+        "img": "./img/cat4.jpeg"
     },
     {
         "type": "貓",
@@ -194,7 +194,7 @@
         "weightDeatil": "9.6kg至22kg",
         "name": "阿皮",
         "sex": "男生",
-        "img": "./../img/cat5.jpeg"
+        "img": "./img/cat5.jpeg"
     },
     {
         "type": "貓",
@@ -205,6 +205,6 @@
         "weightDeatil": "9.6kg至22kg",
         "name": "錡錡",
         "sex": "女生",
-        "img": "./../img/cat6.jpeg"
+        "img": "./img/cat6.jpeg"
     }
 ]
