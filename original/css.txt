@@ -1,0 +1,36 @@
+@import  'http://fonts.googleapis.com/earlyaccess/notosanstc.css';
+
+body{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+.header-area .header-top {
+    border-bottom: 1px solid #d3d3d3;
+}
+.header-default {
+    color: #6e6e6e;
+    font-size: 14px;
+    line-height: 40px;
+}
+
+.header-default p {
+    margin: 0;
+}
+
+.header-user-info {
+    padding: 10px 0;
+    text-align: right;
+}
+
+.header-user-info a {
+    border-left: 1px solid #f1f2f2;
+    color: #252525;
+    font-size: 12px;
+    line-height: 20px;
+    padding-left: 14px;
+    margin-right: 10px;
+}
+.header-user-info a:hover {
+    color: #009A86;
+    text-decoration: none;
+}
