@@ -10,7 +10,7 @@
 
   // 獲取資料
   const getData = (function() {
-    fetch('./../data/dog.json')
+    fetch('./data/dog.json')
       .then(res => res.json())
       .then(data => (dogDatas = data));
   })();
