@@ -10,7 +10,7 @@
   const pageDatas = document.querySelector('section .content .content-area');
   // 獲取資料
   (function() {
-    fetch('./../data/example.json')
+    fetch('./data/example.json')
       .then(res => res.json())
       .then(data => (videodata = data));
   })();
